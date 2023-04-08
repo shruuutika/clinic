@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+}
+
+.left {
+    display: flex;
+    margin-left: 1rem;
+}
+
+/* nav{
+    background-color: cornflowerblue;
+} */
+
+#about i{
+    padding-left: 1rem;
+}
+
+.card1{
+    background-color: deepskyblue;
+}
+
+.card2{
+    background-color: cornflowerblue;
+}
+
+.card3{
+    background-color: darkslateblue;
+}
+
+#theme h1{
+    color: cadetblue;
+}
+
+#doctors .card-body{
+    background-color: aqua;
+}
+
+#doctors .list-group-item{
+    background-color: aqua;
+}
