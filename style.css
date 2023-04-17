@@ -46,3 +46,12 @@ header{
 #doctors .list-group-item{
     background-color: aqua;
 }
+
+@media screen and (max-width:768px) {
+    nav{
+        display: none;
+    }
+    .card3{
+        width: 18px;
+    }
+}
